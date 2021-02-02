@@ -1,10 +1,10 @@
 # Spokeo Chrome Extension
 
 ### www.deflaw.com Example
-[![Example 1](docs/SpokeoExample1.jpg)](docs/SpokeoExample1.jpg)
+[![Deflaw Example](images/deflawSpokeo.jpg)](images/deflawSpokeo.jpg)
 
 ### wwww.atighteru.com Example
-[![Example 2](docs/SpokeoExample2.jpg)](docs/SpokeoExample2.jpg)
+[![A Tighter U Example](images/atighteruSpokeo.jpg)](images/atighteruSpokeo.jpg)
 
 ## Overview and Description:
 
