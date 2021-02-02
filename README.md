@@ -1,14 +1,10 @@
 # Spokeo Chrome Extension
 
-### www.deflaw.com Example
-[![Deflaw Example](images/deflawSpokeo.jpg)](images/deflawSpokeo.jpg)
-
-### wwww.atighteru.com Example
-[![A Tighter U Example](images/atighteruSpokeo.jpg)](images/atighteruSpokeo.jpg)
-
 ## Overview and Description:
 
 This application was designed for Spokeo to assist its clients with a Chrome Extension platform. It combines Chrome's extension API, Spokeo's customer search engine along with a custom web scraper that uses Puppeteer to analyze the static or dynamic web content to find applicable phone numbers and emails to search. The front end is built with React.
+
+[![Product Name Screen Shot][product-screenshot]](images/spokeo-extension-screenshot.png)
 
 ## Installation
 
@@ -17,8 +13,8 @@ This application was designed for Spokeo to assist its clients with a Chrome Ext
 3. In your terminal type "npm install" to install all dependencies
 4. Next type "npm start"
 5. To build the webpack type "npm run build"
-6. After webpack is deployed navigate to Chrome Browser
-   a. In the Chrome Menu, navigate to More Tools and then into Extensions
+6. After webpack is deployed navigate to Chrome Browser <br/>
+   a. In the Chrome Menu, navigate to More Tools and then into Extensions <br/>
    b. Turn on Developer Mode
 7. Click on the button "Load unpacked" and choose the build folder from your repo
 
@@ -30,7 +26,7 @@ The extension performs a scrape of any dynamic or static web page and creates cu
 
 The extension uses local storage to save results of each web page for the client's convenience. It also alerts the client via extension badge to show the client how many results exist per page.
 
-Currently usage for this extension is client-specific, where Client will maintain and further develop. Also, READ ## Licensing below.
+Currently usage for this extension is client-specific, where client will maintain and further develop. Also, read [Licensing](#Licensing) below.
 
 ## Application Requirements:
 
@@ -64,13 +60,13 @@ stack overflow: https://stackoverflow.com/
 
 trello: https://trello.com/
 
-Also see Third Party APIs listed under Application Requirements.
+Also see Third Party APIs listed under [Application Requirements](#Application-Requirements).
 
 ## Credits:
 
 2019 Trilogy Education Services: https://www.trilogyed.com/ - Educational Instruction
 
-UCLA Extension Full Stack Web Development Bootcamp: https://bootcamp.uclaextension.edu/coding/  Educational Instruction and Facility Usages
+UCLA Extension Full Stack Web Development Bootcamp: https://bootcamp.uclaextension.edu/coding/
 
 Omar Patel - UCLA Extension Lead Intructor and Student Support
 
@@ -81,3 +77,5 @@ Julio Valdez, Peter Park - UCLA Extension TAs and Student Support
 PERMISSION NOT GRANTED FOR USE OF THIS APPLICATION.
 
 THIS APPLICATION IS SPECIFIC TO CLIENT USE ONLY.
+
+[product-screenshot]: images/spokeo-extension-screenshot.png
