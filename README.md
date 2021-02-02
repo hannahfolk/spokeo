@@ -50,15 +50,15 @@ Collaborators: Hannah Folk (@hannahfolk), Eduardo Urbaez (@eurbaezjr), and Marie
 
 ## Resources:
 
-gitlab: https://gitlab.com/
+Gitlab: https://gitlab.com/
 
 Google Fonts: https://fonts.google.com/
 
-MDN web docs moz://a: https://developer.mozilla.org/en-US/
+MDN web docs: https://developer.mozilla.org/en-US/
 
-stack overflow: https://stackoverflow.com/
+Stack Overflow: https://stackoverflow.com/
 
-trello: https://trello.com/
+Trello: https://trello.com/
 
 Also see Third Party APIs listed under [Application Requirements](#Application-Requirements).
 
