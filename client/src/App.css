@@ -1,0 +1,19 @@
+body {
+  width: 260px;
+  height: 93px;
+  background-color: #ffffff;
+  font-family: 'MuseoSans700',Arial,sans-serif;
+  overflow: auto;
+  border: 2px #089FE4;
+}
+
+li:nth-child(2n) {
+  background-color: #F0F8F9; /* alternates background-color for each even item on the list */
+}
+
+ol {
+  list-style: none; /* Removes default style */
+  padding: 0; /* Removes paddings */
+  margin: 0; /* Removes margins */
+  text-align: center; /* align text */
+}

@@ -1,0 +1,16 @@
+
+a{
+display: block; /* extends link to full width of parent*/
+text-decoration-style: none; /* removes decoration style*/
+text-decoration: none;
+color: #33393C;
+padding: 2px;
+}
+
+a:hover { /* animates selection's font, background and shadow when hovered*/
+    color:white;
+    background-color: #089FE4;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
